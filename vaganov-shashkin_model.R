@@ -10,7 +10,7 @@ ft1=1    #growth rate (slope>0) between Tmin and Topt1
 ctg=1    #constant growth rate between Topt1 and Topt2
 ft2=1    #growth rate (slope<0) between Topt2 and Tmax
 
-Wmin=0.04
+Wmin=0.04 #find a name for this variable
 Wopt1=0.2
 Wopt2=0.8
 Wmax=0.9
