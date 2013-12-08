@@ -1,0 +1,4 @@
+VSmodel
+=======
+
+Vaganov-Shaskin model
